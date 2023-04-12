@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "assignment-3.0",
+    "slug": "assignment-3.0"
+  }
+}
